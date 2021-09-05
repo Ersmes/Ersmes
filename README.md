@@ -1,6 +1,6 @@
 ### Howdy
 
-My name is Eric Mesina. I am a freshman at Purdue University majoring in First Year Engineering, but I am also very interested in computer science.
+My name is Eric Mesina. I am a sophomore at Purdue University majoring in Aerospace Engineering, but I am also very interested in computer science.
 
 <!--
 **Ersmes/Ersmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
